@@ -1,0 +1,5 @@
+{
+  "mcpServers": {
+    "frontdeskchat": { "type": "http", "url": "https://api.frontdeskchat.com/mcp" }
+  }
+}

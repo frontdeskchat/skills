@@ -1,0 +1,36 @@
+{
+  "$schema": "https://agent-skills.md/schemas/skills-index.json",
+  "name": "FrontDeskChat Skills",
+  "description": "Agent skills for connecting to FrontDeskChat MCP and running its desks and inbox.",
+  "homepage": "https://frontdeskchat.com",
+  "version": "0.1.0",
+  "skills": [
+    {
+      "name": "fdc-mcp",
+      "title": "FrontDeskChat MCP",
+      "description": "Connect an AI agent to FrontDeskChat MCP and read its tool surface.",
+      "path": "skills/fdc-mcp/SKILL.md",
+      "compatibility": ["Claude Code", "OpenAI Codex", "SKILL.md-compatible agents"],
+      "categories": ["mcp", "agent-setup"],
+      "license": "MIT"
+    },
+    {
+      "name": "fdc-desks",
+      "title": "FrontDeskChat Desks",
+      "description": "Build, review and tune FrontDeskChat desks, their knowledge and embed code.",
+      "path": "skills/fdc-desks/SKILL.md",
+      "compatibility": ["Claude Code", "OpenAI Codex", "SKILL.md-compatible agents"],
+      "categories": ["chat-widget", "customer-support"],
+      "license": "MIT"
+    },
+    {
+      "name": "fdc-inbox",
+      "title": "FrontDeskChat Inbox",
+      "description": "Read and triage FrontDeskChat conversations, visitors and bookings.",
+      "path": "skills/fdc-inbox/SKILL.md",
+      "compatibility": ["Claude Code", "OpenAI Codex", "SKILL.md-compatible agents"],
+      "categories": ["inbox", "bookings"],
+      "license": "MIT"
+    }
+  ]
+}

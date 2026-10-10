@@ -1,0 +1,4 @@
+interface:
+  display_name: "FrontDeskChat MCP"
+  short_description: "Connect an agent to FrontDeskChat's MCP server"
+  default_prompt: "Use $fdc-mcp to configure FrontDeskChat MCP access and list the available tools."

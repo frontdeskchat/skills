@@ -1,0 +1,10 @@
+{
+  "name": "frontdeskchat-skills",
+  "version": "0.1.0",
+  "license": "MIT",
+  "homepage": "https://frontdeskchat.com",
+  "repository": "github:frontdeskchat/skills",
+  "keywords": ["agent-skills", "mcp", "front-desk", "frontdeskchat"],
+  "description": "Agent skills for running FrontDeskChat AI front desks and their inbox over MCP.",
+  "files": ["skills/", ".claude-plugin/", ".codex-plugin/", ".cursor-plugin/", ".well-known/", ".mcp.json", "README.md", "LICENSE"]
+}

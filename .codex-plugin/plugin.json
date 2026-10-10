@@ -1,0 +1,22 @@
+{
+  "name": "frontdeskchat",
+  "version": "0.1.0",
+  "description": "Build and run FrontDeskChat AI front desks and their inbox safely.",
+  "author": { "name": "FrontDeskChat", "url": "https://frontdeskchat.com" },
+  "homepage": "https://frontdeskchat.com",
+  "license": "MIT",
+  "keywords": ["front-desk", "chat-widget", "bookings", "mcp"],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "FrontDeskChat",
+    "shortDescription": "AI front desks for your website.",
+    "developerName": "FrontDeskChat",
+    "category": "Productivity",
+    "websiteURL": "https://frontdeskchat.com",
+    "defaultPrompt": [
+      "Use $fdc-inbox to show me chats waiting for a person.",
+      "Use $fdc-desks to review my desk's greeting and knowledge.",
+      "Use $fdc-mcp to check which FrontDeskChat tools this connection has."
+    ]
+  }
+}

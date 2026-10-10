@@ -1,0 +1,11 @@
+{
+  "name": "frontdeskchat",
+  "displayName": "FrontDeskChat",
+  "description": "Build and run FrontDeskChat AI front desks and their inbox safely.",
+  "version": "0.1.0",
+  "author": { "name": "FrontDeskChat" },
+  "homepage": "https://frontdeskchat.com",
+  "license": "MIT",
+  "skills": "./skills/",
+  "keywords": ["front-desk", "chat-widget", "bookings", "mcp"]
+}

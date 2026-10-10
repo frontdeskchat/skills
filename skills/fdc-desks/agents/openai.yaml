@@ -1,0 +1,4 @@
+interface:
+  display_name: "FrontDeskChat Desks"
+  short_description: "Build and tune FrontDeskChat desks"
+  default_prompt: "Use $fdc-desks to review my desk and suggest improvements."

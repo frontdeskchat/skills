@@ -1,0 +1,4 @@
+interface:
+  display_name: "FrontDeskChat Inbox"
+  short_description: "Triage FrontDeskChat conversations and bookings"
+  default_prompt: "Use $fdc-inbox to show me conversations waiting for a person."
