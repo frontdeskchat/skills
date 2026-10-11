@@ -1,6 +1,11 @@
 {
   "name": "frontdeskchat",
-  "description": "Operate FrontDeskChat — AI front desks, their conversations, visitors and bookings — through agent skills and the FrontDeskChat MCP server.",
+  "description": "Operate FrontDeskChat \u2014 AI front desks, their conversations, visitors and bookings \u2014 through agent skills and the FrontDeskChat MCP server.",
   "version": "0.1.0",
-  "author": { "name": "FrontDeskChat", "url": "https://frontdeskchat.com" }
+  "author": {
+    "name": "FrontDeskChat",
+    "url": "https://frontdeskchat.com"
+  },
+  "icon": "./icon.png",
+  "privacyPolicyUrl": "https://frontdeskchat.com/policy/privacy/"
 }
